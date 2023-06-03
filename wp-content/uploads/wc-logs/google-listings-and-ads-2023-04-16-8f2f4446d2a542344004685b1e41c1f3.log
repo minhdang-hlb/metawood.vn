@@ -1,0 +1,7 @@
+2023-04-16T06:33:28+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Internal\DependencyManagement\GoogleServiceProvider::handle_unauthorized_error Client error: `POST https://api-vipgo.woocommerce.com/google/google-mc/content/v2.1/686633719/reports/search` resulted in a `401 Unauthorized` response:
+{
+  "error": {
+    "code": 401,
+    "message": "User does not have reporting manager access to account 686633719. For mo (truncated...)
+
+2023-04-16T06:33:28+00:00 ERROR Automattic\WooCommerce\GoogleListingsAndAds\Notes\NoteInitializer::add_notes Please reconnect your Google account.

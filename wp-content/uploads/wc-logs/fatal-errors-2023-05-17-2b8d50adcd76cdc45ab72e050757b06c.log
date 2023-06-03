@@ -1,0 +1,156 @@
+2023-05-17T13:59:17+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/metawood.vn/wp-content/themes/sober/inc/frontend/footer.php:392
+Stack trace:
+#0 /var/www/metawood.vn/wp-includes/class-wp-hook.php(308): sober_cart_modal()
+#1 /var/www/metawood.vn/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/metawood.vn/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/metawood.vn/wp-includes/general-template.php(3065): do_action()
+#4 /var/www/metawood.vn/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(652): wp_footer()
+#5 /var/www/metawood.vn/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(600): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /var/www/metawood.vn/wp-includes/rest-api/class-wp-rest-server.php(1181): WP_REST_Widget_Types_Controller->render()
+#7 /var/www/metawood.vn/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request()
+#8 /var/www/metawood.vn in /var/www/metawood.vn/wp-content/themes/sober/inc/frontend/footer.php on line 392
+
+2023-05-17T13:59:17+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/metawood.vn/wp-content/themes/sober/inc/frontend/footer.php:392
+Stack trace:
+#0 /var/www/metawood.vn/wp-includes/class-wp-hook.php(308): sober_cart_modal()
+#1 /var/www/metawood.vn/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/metawood.vn/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/metawood.vn/wp-includes/general-template.php(3065): do_action()
+#4 /var/www/metawood.vn/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(652): wp_footer()
+#5 /var/www/metawood.vn/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(600): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /var/www/metawood.vn/wp-includes/rest-api/class-wp-rest-server.php(1181): WP_REST_Widget_Types_Controller->render()
+#7 /var/www/metawood.vn/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request()
+#8 /var/www/metawood.vn in /var/www/metawood.vn/wp-content/themes/sober/inc/frontend/footer.php on line 392
+
+2023-05-17T13:59:18+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/metawood.vn/wp-content/themes/sober/inc/frontend/footer.php:392
+Stack trace:
+#0 /var/www/metawood.vn/wp-includes/class-wp-hook.php(308): sober_cart_modal()
+#1 /var/www/metawood.vn/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/metawood.vn/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/metawood.vn/wp-includes/general-template.php(3065): do_action()
+#4 /var/www/metawood.vn/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(652): wp_footer()
+#5 /var/www/metawood.vn/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(600): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /var/www/metawood.vn/wp-includes/rest-api/class-wp-rest-server.php(1181): WP_REST_Widget_Types_Controller->render()
+#7 /var/www/metawood.vn/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request()
+#8 /var/www/metawood.vn in /var/www/metawood.vn/wp-content/themes/sober/inc/frontend/footer.php on line 392
+
+2023-05-17T13:59:18+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/metawood.vn/wp-content/themes/sober/inc/frontend/footer.php:392
+Stack trace:
+#0 /var/www/metawood.vn/wp-includes/class-wp-hook.php(308): sober_cart_modal()
+#1 /var/www/metawood.vn/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/metawood.vn/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/metawood.vn/wp-includes/general-template.php(3065): do_action()
+#4 /var/www/metawood.vn/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(652): wp_footer()
+#5 /var/www/metawood.vn/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(600): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /var/www/metawood.vn/wp-includes/rest-api/class-wp-rest-server.php(1181): WP_REST_Widget_Types_Controller->render()
+#7 /var/www/metawood.vn/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request()
+#8 /var/www/metawood.vn in /var/www/metawood.vn/wp-content/themes/sober/inc/frontend/footer.php on line 392
+
+2023-05-17T13:59:21+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/metawood.vn/wp-content/themes/sober/inc/frontend/footer.php:392
+Stack trace:
+#0 /var/www/metawood.vn/wp-includes/class-wp-hook.php(308): sober_cart_modal()
+#1 /var/www/metawood.vn/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/metawood.vn/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/metawood.vn/wp-includes/general-template.php(3065): do_action()
+#4 /var/www/metawood.vn/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(652): wp_footer()
+#5 /var/www/metawood.vn/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(600): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /var/www/metawood.vn/wp-includes/rest-api/class-wp-rest-server.php(1181): WP_REST_Widget_Types_Controller->render()
+#7 /var/www/metawood.vn/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request()
+#8 /var/www/metawood.vn in /var/www/metawood.vn/wp-content/themes/sober/inc/frontend/footer.php on line 392
+
+2023-05-17T13:59:21+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/metawood.vn/wp-content/themes/sober/inc/frontend/footer.php:392
+Stack trace:
+#0 /var/www/metawood.vn/wp-includes/class-wp-hook.php(308): sober_cart_modal()
+#1 /var/www/metawood.vn/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/metawood.vn/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/metawood.vn/wp-includes/general-template.php(3065): do_action()
+#4 /var/www/metawood.vn/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(652): wp_footer()
+#5 /var/www/metawood.vn/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(600): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /var/www/metawood.vn/wp-includes/rest-api/class-wp-rest-server.php(1181): WP_REST_Widget_Types_Controller->render()
+#7 /var/www/metawood.vn/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request()
+#8 /var/www/metawood.vn in /var/www/metawood.vn/wp-content/themes/sober/inc/frontend/footer.php on line 392
+
+2023-05-17T13:59:22+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/metawood.vn/wp-content/themes/sober/inc/frontend/footer.php:392
+Stack trace:
+#0 /var/www/metawood.vn/wp-includes/class-wp-hook.php(308): sober_cart_modal()
+#1 /var/www/metawood.vn/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/metawood.vn/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/metawood.vn/wp-includes/general-template.php(3065): do_action()
+#4 /var/www/metawood.vn/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(652): wp_footer()
+#5 /var/www/metawood.vn/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(600): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /var/www/metawood.vn/wp-includes/rest-api/class-wp-rest-server.php(1181): WP_REST_Widget_Types_Controller->render()
+#7 /var/www/metawood.vn/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request()
+#8 /var/www/metawood.vn in /var/www/metawood.vn/wp-content/themes/sober/inc/frontend/footer.php on line 392
+
+2023-05-17T13:59:22+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/metawood.vn/wp-content/themes/sober/inc/frontend/footer.php:392
+Stack trace:
+#0 /var/www/metawood.vn/wp-includes/class-wp-hook.php(308): sober_cart_modal()
+#1 /var/www/metawood.vn/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/metawood.vn/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/metawood.vn/wp-includes/general-template.php(3065): do_action()
+#4 /var/www/metawood.vn/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(652): wp_footer()
+#5 /var/www/metawood.vn/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(600): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /var/www/metawood.vn/wp-includes/rest-api/class-wp-rest-server.php(1181): WP_REST_Widget_Types_Controller->render()
+#7 /var/www/metawood.vn/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request()
+#8 /var/www/metawood.vn in /var/www/metawood.vn/wp-content/themes/sober/inc/frontend/footer.php on line 392
+
+2023-05-17T13:59:22+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/metawood.vn/wp-content/themes/sober/inc/frontend/footer.php:392
+Stack trace:
+#0 /var/www/metawood.vn/wp-includes/class-wp-hook.php(308): sober_cart_modal()
+#1 /var/www/metawood.vn/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/metawood.vn/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/metawood.vn/wp-includes/general-template.php(3065): do_action()
+#4 /var/www/metawood.vn/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(652): wp_footer()
+#5 /var/www/metawood.vn/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(600): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /var/www/metawood.vn/wp-includes/rest-api/class-wp-rest-server.php(1181): WP_REST_Widget_Types_Controller->render()
+#7 /var/www/metawood.vn/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request()
+#8 /var/www/metawood.vn in /var/www/metawood.vn/wp-content/themes/sober/inc/frontend/footer.php on line 392
+
+2023-05-17T13:59:22+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/metawood.vn/wp-content/themes/sober/inc/frontend/footer.php:392
+Stack trace:
+#0 /var/www/metawood.vn/wp-includes/class-wp-hook.php(308): sober_cart_modal()
+#1 /var/www/metawood.vn/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/metawood.vn/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/metawood.vn/wp-includes/general-template.php(3065): do_action()
+#4 /var/www/metawood.vn/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(652): wp_footer()
+#5 /var/www/metawood.vn/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(600): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /var/www/metawood.vn/wp-includes/rest-api/class-wp-rest-server.php(1181): WP_REST_Widget_Types_Controller->render()
+#7 /var/www/metawood.vn/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request()
+#8 /var/www/metawood.vn in /var/www/metawood.vn/wp-content/themes/sober/inc/frontend/footer.php on line 392
+
+2023-05-17T13:59:26+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/metawood.vn/wp-content/themes/sober/inc/frontend/footer.php:392
+Stack trace:
+#0 /var/www/metawood.vn/wp-includes/class-wp-hook.php(308): sober_cart_modal()
+#1 /var/www/metawood.vn/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/metawood.vn/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/metawood.vn/wp-includes/general-template.php(3065): do_action()
+#4 /var/www/metawood.vn/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(652): wp_footer()
+#5 /var/www/metawood.vn/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(600): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /var/www/metawood.vn/wp-includes/rest-api/class-wp-rest-server.php(1181): WP_REST_Widget_Types_Controller->render()
+#7 /var/www/metawood.vn/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request()
+#8 /var/www/metawood.vn in /var/www/metawood.vn/wp-content/themes/sober/inc/frontend/footer.php on line 392
+
+2023-05-17T13:59:26+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/metawood.vn/wp-content/themes/sober/inc/frontend/footer.php:392
+Stack trace:
+#0 /var/www/metawood.vn/wp-includes/class-wp-hook.php(308): sober_cart_modal()
+#1 /var/www/metawood.vn/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/metawood.vn/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/metawood.vn/wp-includes/general-template.php(3065): do_action()
+#4 /var/www/metawood.vn/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(652): wp_footer()
+#5 /var/www/metawood.vn/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(600): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /var/www/metawood.vn/wp-includes/rest-api/class-wp-rest-server.php(1181): WP_REST_Widget_Types_Controller->render()
+#7 /var/www/metawood.vn/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request()
+#8 /var/www/metawood.vn in /var/www/metawood.vn/wp-content/themes/sober/inc/frontend/footer.php on line 392
+
+2023-05-17T13:59:26+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/metawood.vn/wp-content/themes/sober/inc/frontend/footer.php:392
+Stack trace:
+#0 /var/www/metawood.vn/wp-includes/class-wp-hook.php(308): sober_cart_modal()
+#1 /var/www/metawood.vn/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#2 /var/www/metawood.vn/wp-includes/plugin.php(517): WP_Hook->do_action()
+#3 /var/www/metawood.vn/wp-includes/general-template.php(3065): do_action()
+#4 /var/www/metawood.vn/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(652): wp_footer()
+#5 /var/www/metawood.vn/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php(600): WP_REST_Widget_Types_Controller->render_legacy_widget_preview_iframe()
+#6 /var/www/metawood.vn/wp-includes/rest-api/class-wp-rest-server.php(1181): WP_REST_Widget_Types_Controller->render()
+#7 /var/www/metawood.vn/wp-includes/rest-api/class-wp-rest-server.php(1028): WP_REST_Server->respond_to_request()
+#8 /var/www/metawood.vn in /var/www/metawood.vn/wp-content/themes/sober/inc/frontend/footer.php on line 392
+
